@@ -1,9 +1,9 @@
 
-###  DATE: 23-09-24
+###  DATE: 17-11-24
 
-###  NAME: SHAIK AZEEZ AHAMAD
-###  ROLL NO : 212223110046
-###  DEPARTMENT: IoT
+###  NAME:  L yagnesh kumar reddy
+###  ROLL NO : 212223100024
+###  DEPARTMENT: cs
 
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
